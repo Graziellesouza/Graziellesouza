@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Grazielle Souza e meu nome de usuário é @Graziellesouza
-- 👀 I’
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Como chegar até mim... grazielle.souza@escola.pr.gov.br
 
 <!---
